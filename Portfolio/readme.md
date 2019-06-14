@@ -1,5 +1,5 @@
 # Logboek
-Het logboek komt te staan op Google Calendar. Iedere groep maakt zijn eigen calender aan, en iedere dag wordt er een logboek item aangemaakt. Zorg ervoor dat het hele team toegang heeft tot het logboek en dat iedereen items kan aanmaken.
+[Logboek](https://docs.google.com/spreadsheets/d/1Ket6vl1Wts0m4QMc0ilRN2lkJZNlDj7c7xCYud23--4/edit?usp=sharing)
 
 # Templates
 
@@ -28,10 +28,16 @@ De templates zijn voorbeelden die jullie kunnen gebruiken/invullen voor jullie p
 In dit document kun je jouw onderzoek documenteren. Welke hardware werkt op welke manier, welke software is te gebruiken. Registreer de bronnen die jullie hebben gevonden en tot welke conclusie jullie zijn gekomen.  
 Maak een kopie van [deze template](https://docs.google.com/document/d/1-8Lun7FkWvkTVKPMMm6BKp_DRDbwV6GFRjUCsTPgfGQ/edit?usp=sharing) en bewaar deze op jullie eigen Google Drive.
 
+[Onderzoek](https://docs.google.com/document/d/1t3xIskm4JrVIdgxGjOaGB09orWLRLLImgIJ5xIXfyco/edit?usp=sharing)
+
 ### Ontwerp documentatie
 In dit document leg je jullie plan voor de applicatie vast.  
 Maak een kopie van [deze template](https://docs.google.com/document/d/1vUcPZnt2DNiBwPlGxF2GW2h1UzxJ7e13t7Eh3B14KBs/edit?usp=sharing) en bewaar deze op jullie eigen Google Drive.
 
+[Ontwerp](https://docs.google.com/document/d/1o_Gw1OGb8tekNQXpkKzg49ko5ghP9u1o0Mh3BsXSVEY/edit?usp=sharing)
+
 ### Testrapportage
 In dit document wordt jullie testen beschreven. Van elke (user)test die jullie hebben uitgevoerd is er een testplan aanwezig, de resultaten en een link naar de opname.  
 Maak een kopie van [deze template](https://docs.google.com/document/d/1GVerzw073bxFV1_LC7WGpq9_S2qSz38tWkvaA_kYpLM/edit?usp=sharing) en bewaar deze op jullie eigen Google Drive.
+
+[Test rapport](https://docs.google.com/document/d/1V6qj__YNYS8INC_2urtPz_wu8lXyTw6gQaAAKzQOKEU/edit?usp=sharing)
