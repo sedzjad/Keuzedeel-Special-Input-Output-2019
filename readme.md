@@ -5,7 +5,8 @@ Team 4
 [Projectmanagment](https://trello.com/b/zG8t2tqw/in-output) <Trello scrumboard bijvoorbeeld>
 
 ## Ontwerp
-Beschrijf hier kort jullie project
+In dit project word er onderzoek gedaan naar facial recognition/detection libraries en tools. Hierbij word er gebruik gemaakt van FaceAPI.JS. Dit is een library gebasseerd op TenserFlow.JS.
+Het product zal een gezicht detecteren, aangeven of je: neutraal, blij, boos of geschrokken bent. Tot slot zal er een overeenkomst factor te zien zijn. In hoeverre denkt het programma dat het gezicht wat je presenteert daadwerkelijk bij een mens hoort.
 
 ## Portfolio
 Zet hier de links neer naar jullie documentatie.
